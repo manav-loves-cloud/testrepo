@@ -3,5 +3,5 @@
 ### Copy following command
 
 ```
-  aws ec2 run --name <inject value="EC2InstanceName">
+  aws ec2 run --name <inject key="EC2InstanceName"/>
 ```
